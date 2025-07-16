@@ -8,8 +8,9 @@ This project, "Student Exam Performance Indicator," showcases a comprehensive **
 
 The core objective of this project is to predict a student's **Maths Score** out of 100, leveraging their demographic information (Gender, Race or Ethnicity), parental education, lunch type, test preparation course completion, and scores in Reading and Writing. The project demonstrates a full-stack ML solution, from data processing to real-time prediction via a user-friendly web interface.
 
-![Student Exam Performance Indicator Application](<img width="783" height="897" alt="image" src="https://github.com/user-attachments/assets/16b17eb2-56a7-4a8e-ad71-6ef7e4173fe1" />
-)
+<img width="783" height="897" alt="image" src="https://github.com/user-attachments/assets/9cadc6e1-7fa4-409e-8b18-f002a67a9216" />
+
+
 
 ---
 
