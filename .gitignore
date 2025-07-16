@@ -127,3 +127,31 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Project-specific directories
+logs/
+catboost_info/
+mlproject.egg-info/
+
+# Large datasets (if you have any)
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+# Model files (if they get too large)
+# *.pkl  # Uncomment this if your model files become very large
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
