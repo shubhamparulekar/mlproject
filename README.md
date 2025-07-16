@@ -91,6 +91,17 @@ Once the application is running, you can interact with it through the web interf
 2.  **Predict**: Click the **"Predict your Maths Score"** button.
 3.  **View Prediction**: The predicted Maths Score will be displayed on the page under "The prediction is".
 
+<img width="783" height="897" alt="image" src="https://github.com/user-attachments/assets/0f93e982-1528-4ee9-bf97-dcd202d1b9de" />
+
+
+---
+
+### 🌐 Deployed Application
+
+You can also access a live version of the Student Performance Prediction Project deployed on Render:
+
+**[https://studentperformanceprediction-8inu.onrender.com/](https://studentperformanceprediction-8inu.onrender.com/)**
+
 ---
 
 ### 🤝 Contributing
